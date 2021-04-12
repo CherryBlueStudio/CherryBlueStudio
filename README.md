@@ -1,4 +1,4 @@
-## Hi, I’m @CherryBlueStudio
+## Hi, I'm Steve Lambert @CherryBlueStudio
 
 I’m currently creating a project management app called Miniman using a MEAN stack; follow along with the development <a href="https://github.com/CherryBlueStudio/Miniman">here!</a>
 
